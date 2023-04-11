@@ -1,0 +1,24 @@
+# Fdb version 3
+["xdvipdfmx"] 1681178227 "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.pdf" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main" 1681178227
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" 1681178227 4460 885c35eb438ba7ca28f547e2b5760895 "xelatex"
+  (generated)
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.pdf"
+["xelatex"] 1681178227 "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.tex" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" "main" 1681178227
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.aux" 1681178227 756 a63eead4aaff72733993d7f5a0a3d49b ""
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.tex" 1681177835 99 2e2724cb25f0db49f0e009978c479004 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls" 1601675358 20145 aad8c3dd3bc36e260347b84002182bc2 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo" 1601675358 8450 6fd3588c0e9d06f6f56c6cf4f7246466 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd" 1580683321 2431 b6cead9f069ed55f4fba0c637aa047b6 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def" 1616101731 34666 58d292eee7df5fb43d9818e3e84b305d ""
+  "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
+  "/usr/local/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1635350931 5093976 f6df7264aab589c3753c46c0194c51ef ""
+  "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
+  "ejemplo.tex" 1681178226 406 ef5dfee1e1caf651e69150143f323ae7 ""
+  "main.aux" 1681178227 756 a63eead4aaff72733993d7f5a0a3d49b "xelatex"
+  "main.tex" 1681177835 99 2e2724cb25f0db49f0e009978c479004 ""
+  (generated)
+  "main.aux"
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv"
+  "main.log"
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.log"
+  "main.xdv"
