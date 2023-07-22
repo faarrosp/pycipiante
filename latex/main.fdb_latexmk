@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1681435629 "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.pdf" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main" 1681435630
-  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" 1681435629 3440 2d2891fd647f913eff1bfe28cf958956 "xelatex"
+["xdvipdfmx"] 1681529406 "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.pdf" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main" 1681529406
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" 1681529406 3452 f31c32e96b3d6ca3a7cc19ad4ceff594 "xelatex"
   (generated)
   "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.pdf"
-["xelatex"] 1681435629 "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.tex" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" "main" 1681435630
-  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.aux" 1681435629 473 411496bd2a60d36044d23b3894f226e6 ""
+["xelatex"] 1681529405 "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.tex" "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv" "main" 1681529406
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.aux" 1681529406 473 411496bd2a60d36044d23b3894f226e6 ""
   "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.tex" 1681434404 147 42d4069efe321de05d686d0f7b931f1e ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls" 1601675358 20145 aad8c3dd3bc36e260347b84002182bc2 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo" 1601675358 8450 6fd3588c0e9d06f6f56c6cf4f7246466 ""
@@ -19,13 +19,13 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1635350931 5093976 f6df7264aab589c3753c46c0194c51ef ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "figuras.tex" 1681435628 694 85d2d49686698d991522aa4f42dbe122 ""
+  "figuras.tex" 1681529405 695 9b25d13ccc87ab16fe2f866cfafc1a94 ""
   "imgs/basket/pelota.jpeg" 1681434361 30700 fdaad28a070c69e22e0630078114ee39 ""
-  "main.aux" 1681435629 473 411496bd2a60d36044d23b3894f226e6 "xelatex"
+  "main.aux" 1681529406 473 411496bd2a60d36044d23b3894f226e6 "xelatex"
   "main.tex" 1681434404 147 42d4069efe321de05d686d0f7b931f1e ""
   (generated)
   "main.aux"
-  "main.xdv"
   "main.log"
-  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv"
   "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.log"
+  "/Users/felipearrospide/Documents/GitHub/pycipiante/latex/main.xdv"
+  "main.xdv"
